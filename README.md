@@ -18,12 +18,21 @@ The repository contains the MATLAB programs for reading Rosetta magnetometer dat
 6. A MATLAB program for computing and plotting monthly median correlation times and their uncertainties: median_correlation_value_plotter.m [4 kB] 
 
 7. MATLAB data files containing the following data for Rosetta observations at comet 67P from September 2014 to September 2016 (total file size=41 MB):
+    
     column 1: low-frequency spectral index
+    
     column 2: uncertainty for low-frequency spectral index
-    column 3: high-frequency spectral index 
+    
+    column 3: high-frequency spectral index
+    
     column 4: uncertainty for high-frequency spectral index
+    
     column 5: spectral-break frequency (Hz)
+    
     column 6: data validity indicator 
+    
     column 7: mean X-CSEQ location for the spacecraft
+    
     column 8: mean Y-CSEQ location for the spacecraft
+    
     column 9: mean Z-CSEQ location for the spacecraft
